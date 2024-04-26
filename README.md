@@ -13,9 +13,9 @@ The dataset is a popular Kaggle dataset, [Exploring Global Hospitality: A Compre
 * Numpy
 * Pandas
 * Tensorflow
-* OS
-* SYS
 * Matplotlib
 * SKlearn
+* OS
+* SYS
 
   
