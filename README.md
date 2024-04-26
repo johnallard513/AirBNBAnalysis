@@ -6,4 +6,4 @@ For this project, I analyzed a dataset of AirBNB rentals from across the USA to 
 
 The dataset is a popular Kaggle dataset, [Exploring Global Hospitality: A Comprehensive Dataset of Airbnb Listings](https://www.kaggle.com/datasets/lovishbansal123/airbnb-data), consisting of 78,000 rentals from 6 US cities - NYC, Chicago, Boston, San Francisco, and LA. It contains 29 columns of data, including a detailed list of amenities, neighbourhood and latitude and longitude info, a rental type, and bed/bathroom counts.
 
-![AirBNB](path/to/your-image.png)
+![AirBNB](AirBNBAnalysis/Images/Airbnb.jpeg)
