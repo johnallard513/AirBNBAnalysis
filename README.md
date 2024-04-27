@@ -41,4 +41,4 @@ The dataset is a popular Kaggle dataset, [Exploring Global Hospitality: A Compre
 
 ## General Stats
 
-![General Stats](Images/General_Stats.png)
+![General Stats](Images/GeneralStats.jpg)
