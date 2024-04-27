@@ -18,4 +18,25 @@ The dataset is a popular Kaggle dataset, [Exploring Global Hospitality: A Compre
 * OS
 * SYS
 
+## Features
+
+* hair dryer
+* kid friendly
+* instant bookable
+* pool
+* laptop friendly workspace
+* air conditioning
+* kitchen
+* host has profile pic
+* smoke detector
+* carbon monoxide detector
+* bedrooms
+* beds
+* host identity verified
+* iron
+* wireless internet           
+* dryer            
+* cleaning fee            
+* washer 
+
   
