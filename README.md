@@ -39,4 +39,6 @@ The dataset is a popular Kaggle dataset, [Exploring Global Hospitality: A Compre
 * cleaning fee            
 * washer 
 
-  
+## General Stats
+
+![General Stats](Images/Airbnb.jpeg)
