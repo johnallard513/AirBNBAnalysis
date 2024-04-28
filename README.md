@@ -58,9 +58,9 @@ The dataset is a popular Kaggle dataset, [Exploring Global Hospitality: A Compre
 ### Price Analysis
 (Prices scald 0-1)
 
-NYC - .048
-SF - .045
-LA - .049
-Boston - .047
-Chicago - .047
-DC - .048
+* NYC - .048
+* SF - .045
+* LA - .049
+* Boston - .047
+* Chicago - .047
+* DC - .048
