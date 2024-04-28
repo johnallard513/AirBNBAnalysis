@@ -52,3 +52,15 @@ The dataset is a popular Kaggle dataset, [Exploring Global Hospitality: A Compre
 ### Review Score Analysis
 
 ![Review Score Analysis](Images/ReviewScoreAnalysis.jpg)
+
+## MAE Scores
+
+### Price Analysis
+(Prices scald 0-1)
+
+NYC - .048
+SF - .045
+LA - .049
+Boston - .047
+Chicago - .047
+DC - .048
