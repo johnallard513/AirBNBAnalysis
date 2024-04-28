@@ -56,7 +56,7 @@ The dataset is a popular Kaggle dataset, [Exploring Global Hospitality: A Compre
 ## MAE Scores
 
 ### Price Analysis
-(Prices scald 0-1)
+(Prices scaled 0-1)
 
 * NYC - .048
 * SF - .045
