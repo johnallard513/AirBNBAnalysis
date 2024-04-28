@@ -42,3 +42,13 @@ The dataset is a popular Kaggle dataset, [Exploring Global Hospitality: A Compre
 ## General Stats
 
 ![General Stats](Images/GeneralStats.jpg)
+
+## Neural Networks
+
+### Price Analysis
+
+![Price Analysis](Images/PriceAnalysis.jpg)
+
+### Review Score Analysis
+
+![Review Score Analysis](Images/ReviewScoreAnalysis.jpg)
