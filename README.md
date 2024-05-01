@@ -64,3 +64,13 @@ The dataset is a popular Kaggle dataset, [Exploring Global Hospitality: A Compre
 * Boston - .047
 * Chicago - .047
 * DC - .048
+
+### Review Scores
+(Review scores scaled 0-100)
+
+* NYC - 5.56
+* SF - 4.39
+* LA - 4.97
+* Boston - 5.82
+* Chicago - 4.71
+* DC - 4.91
